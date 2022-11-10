@@ -1,0 +1,6 @@
+ipython
+numpy
+pandas
+matplotlib
+folium
+jupyter
